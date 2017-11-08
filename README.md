@@ -1,8 +1,9 @@
 # unilang
 
-unilang is a (personal) list of useful (and less useful) programming languages I came across during my Computer Science studies at the universtiy of basel. The list is Work in Progress, as it gets expanded more and more.
+unilang is a (personal) list of useful (and less useful) programming languages I came across during my Computer Science studies at the Universtiy of Basel. The list is Work in Progress, as it gets expanded more and more.
 
 <a id="toc">
+
 ## Table of Contents
 
 * [Introduction](#introduction)
