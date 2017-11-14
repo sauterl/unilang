@@ -3,6 +3,7 @@
 unilang is a (personal) list of useful (and less useful) programming languages I came across during my Computer Science studies at the universtiy of basel. The list is Work in Progress, as it gets expanded more and more.
 
 <a id="toc">
+	
 ## Table of Contents
 
 * [Introduction](#introduction)
@@ -115,7 +116,7 @@ https://java.com/en/
 
 ### Kotlin
 
-[Kotlin](https://kotlinlang.org/) is actually not a language, you have to learn during your studies, since it does not occur in any course as a mandatory language. Nevertheless, I really recommend koltin, since I would call it a moden version of Java; It feels java-ish to write Kotlin, it is run in a JVM and you can still leverage the complete java-ecosystem, if you want to.
+[Kotlin](https://kotlinlang.org/) is actually not a language you _have_ to learn during your studies, since it does not occur in any course as a mandatory language. Nevertheless, I really recommend koltin, since I would call it a moden version of Java; It feels java-ish to write Kotlin, it is run in a JVM and you can still leverage the complete java-ecosystem, if you want to.
 
 **Tools:**
 
