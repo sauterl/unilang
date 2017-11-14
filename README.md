@@ -1,9 +1,8 @@
 # unilang
 
-unilang is a (personal) list of useful (and less useful) programming languages I came across during my Computer Science studies at the Universtiy of Basel. The list is Work in Progress, as it gets expanded more and more.
+unilang is a (personal) list of useful (and less useful) programming languages I came across during my Computer Science studies at the universtiy of basel. The list is Work in Progress, as it gets expanded more and more.
 
 <a id="toc">
-
 ## Table of Contents
 
 * [Introduction](#introduction)
@@ -97,7 +96,7 @@ The following programming languages I stumbled upon, once or twice.
 
 ### Java
 
-Studying Computer Science at the University of Basel, students learn Java in the very first CS course.
+Studying Computer Science at the University of Basel, students learn Java in the very first CS course. The follow-up course, in the second semester, is about writing a multiplayer game in Java, applying server-client architecture.
 
 https://java.com/en/
 
@@ -106,9 +105,22 @@ https://java.com/en/
 * [Eclipse](https://www.eclipse.org/) I used to use eclipse as IDE for four years, but then I switched to
 * [InelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows), a truly great IDE
 
+**Resources:**
+
+* [Documentation](https://docs.oracle.com/javase/8/docs/api/), the API reference documentation
+* [The Java Tutorials](https://docs.oracle.com/javase/tutorial/), very good and step-by-step tutorials (basically, if you want to know something, go there)
+* [Awesome Java](https://github.com/akullpp/awesome-java), an awesome list about useful Java resources and, especially, libraries
+
 [Back to TOC](#toc)
 
 ### Kotlin
+
+[Kotlin](https://kotlinlang.org/) is actually not a language, you have to learn during your studies, since it does not occur in any course as a mandatory language. Nevertheless, I really recommend koltin, since I would call it a moden version of Java; It feels java-ish to write Kotlin, it is run in a JVM and you can still leverage the complete java-ecosystem, if you want to.
+
+**Tools:**
+
+**Resources:**
+
 
 [Back to TOC](#toc)
 
@@ -177,6 +189,3 @@ https://java.com/en/
 ### JavaScript
 
 [Back to TOC](#toc)
-
-
-
